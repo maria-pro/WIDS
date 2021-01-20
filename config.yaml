@@ -1,0 +1,85 @@
+baseURL: https://github.com/maria-pro/WIDS
+languageCode: en-us
+title: WIDS Conferrence
+theme: infinity-hugo
+removePathAccents: yes
+params:
+  about:
+    description: The WiDS conference features excellent technical thought leaders in data science from academia, industry, non-profits and government. Topics presented will feature speakers that will cover a range of domains from data ethics and democratization, to healthcare, to data visualization, and more.
+    enable: yes
+    heading: WiDs 2021 Mentorship workshops is an independent event organised by Victoria University to coincide with the annual Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS regional events, which features outstanding women doing outstanding work.
+    sliderItem:
+      - image: images/about/1.png
+      - image: images/about/2.png
+      - image: images/about/3.png
+      - image: images/about/2.png
+  contact:
+    enable: yes
+    subtitle: 
+    title: Get In Touch
+  cta:
+    bg: images/call-to-action.jpeg
+    enable: yes
+    subtitle: 
+    title: Yes, I am in
+  customHead: ''
+  hero:
+    bg: images/header-bg.png
+    btnText: Get Started
+    countdownDay: '8'
+    countdownMonth: '3'
+    countdownYear: '2021'
+    disableCountdown: no
+    enable: yes
+    subtitle: Join us on March 8, 2021, for the inaugural 24-hour virtual Women in Data Science (WiDS) Worldwide conference. Follow us as we follow the sun around the world on International Women’s Day. All are welcome! Early bird registration ends on February 5th.
+    title: Women in Datascience Conference 2021
+  navigation:
+    about: About
+    contact: Contact
+    home: Home
+    logo: images/logo.png
+  service:
+    enable: yes
+    serviceItem:
+      - delay: 0s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-strategy
+        title: Fully Responsive
+      - delay: 0.2s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-circle-compass
+        title: Speed Optimized
+      - delay: 0.4s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-anchor2
+        title: Tons of Feature
+      - delay: 0.6s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-globe
+        title: Fully SEO Optimized
+      - delay: 0.8s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-strategy
+        title: Fully Responsive
+      - delay: 1s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-circle-compass
+        title: Speed Optimized
+      - delay: 1.2s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-anchor2
+        title: Tons of Feature
+      - delay: 1.5s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-globe
+        title: Fully SEO Optimized
+    subtitle: The Women in Data Science (WiDS) conference is a technical conference featuring outstanding women doing outstanding work in data science and related fields such as artificial intelligence in a wide range of domains. Thought leaders around the world, from academia, industry, non-profits, and government.
+    title: Speakers
